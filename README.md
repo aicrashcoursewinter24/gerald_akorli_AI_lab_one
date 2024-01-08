@@ -1,7 +1,7 @@
 Lab one
 ==============================
 
-This is our first ai course project
+This is my first ai course project
 
 Project Organization
 ------------
